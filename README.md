@@ -6,11 +6,16 @@
 ### Glad to see you here! 
 
 I’m a **prefinal year B.Tech student in Computer Science & Business Systems  at RMDEC** 🎓.  
-I love solving problems through **coding, data structures, and algorithms** while exploring how technology can be applied to real-world challenges. 🚀  
+I’m a backend-focused engineering student who enjoys designing secure and efficient systems.
 
-Currently, I’m building strong foundations in **Java, Data Structures, SQL, and full-stack development**, while also diving into **AI-based projects** like traffic management and blockchain-based secure systems.  
+My primary interest lies in:
+🛠 Building secure REST APIs using Spring Boot.
+💻Implementing authentication & authorization systems.
+⚡Designing scalable backend architectures.
+👾Solving Data Structures & Algorithm problems.
+📫Applying cybersecurity best practices in real-world applications.
 
-I enjoy experimenting with new ideas, writing clean code, and working on projects that combine innovation with impact. 🌟  
+I believe in writing clean, structured, and production-ready code.🌟  
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
@@ -27,7 +32,7 @@ I enjoy experimenting with new ideas, writing clean code, and working on project
 - 🚀 &nbsp; Exploring **AI, Blockchain, and Secure Systems**.  
 - 💬 &nbsp; Open to discussions on **coding, DSA, and software projects**.  
 - 👾 &nbsp; Fun fact: Debugging feels like being a detective 🕵️‍♂️.  
-- 📫 &nbsp; Reach me at: **(your email here)**  
+- 📫 &nbsp; Reach me at: **sandeepkaushik.r21@gmail.com**  
 
 ---
 
