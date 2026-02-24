@@ -8,12 +8,13 @@
 I’m a **prefinal year B.Tech student in Computer Science & Business Systems  at RMDEC** 🎓.  
 I’m a backend-focused engineering student who enjoys designing secure and efficient systems.
 
-My primary interest lies in:
-🛠 Building secure REST APIs using Spring Boot.
-💻Implementing authentication & authorization systems.
-⚡Designing scalable backend architectures.
-👾Solving Data Structures & Algorithm problems.
-📫Applying cybersecurity best practices in real-world applications.
+**My primary interest lies in:**  
+
+🛠 Building secure REST APIs using Spring Boot.  
+💻Implementing authentication & authorization systems.  
+⚡Designing scalable backend architectures.  
+👾Solving Data Structures & Algorithm problems.  
+📫Applying cybersecurity best practices in real-world applications.  
 
 I believe in writing clean, structured, and production-ready code.🌟  
 
@@ -40,7 +41,7 @@ I believe in writing clean, structured, and production-ready code.🌟
 
 - 💻 &nbsp; Problem-solving and building tech solutions.  
 - 📰 &nbsp; Exploring new technologies and reading about innovations.  
-- 🍕 &nbsp; Tech meetups, hackathons & teamwork-driven projects.  
+- ☁️ &nbsp; Cloud technologies, distributed systems & scalable infrastructure.    
 
 ---
 
@@ -50,7 +51,6 @@ I believe in writing clean, structured, and production-ready code.🌟
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
