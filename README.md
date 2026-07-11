@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 
 
-I’m a **prefinal year B.Tech student in Computer Science & Business Systems  at RMDEC** 🎓.  
+I’m a **Final year B.Tech student in Computer Science & Business Systems  at RMDEC** 🎓.  
 I’m a backend-focused engineering student who enjoys designing secure and efficient systems.
 
 **My primary interest lies in:**  
